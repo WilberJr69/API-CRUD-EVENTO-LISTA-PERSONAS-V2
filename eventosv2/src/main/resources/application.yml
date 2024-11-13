@@ -1,0 +1,9 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3308/db_api_v2_evento
+    username: cambiarPorTuUserNames
+    password: cambiarPorTuPassword
+    driver-class-name: com.mysql.cj.jdbc.Driver
